@@ -35,7 +35,7 @@ Created a standard user with no directory roles.
 Created a security group to manage RBAC assignments at scale.
 
 **Screenshot:**  
-`![Group Creation](./screenshots/group-creation.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 1 22 22 AM" src="https://github.com/user-attachments/assets/bf2b3ce8-30e5-480a-bbc7-ca94c95910e7" />
 
 ---
 
@@ -61,7 +61,7 @@ Assigned **Key Vault Secrets User** to LabUser1.
 Assigned **Storage Blob Data Reader** to the operator group.
 
 **Screenshot:**  
-`![Storage Blob Data Reader](./screenshots/storage-blob-reader.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 1 50 15 AM" src="https://github.com/user-attachments/assets/feda492f-0c68-4a8d-8ad7-257762b14f9a" />
 
 ---
 
@@ -79,7 +79,7 @@ Assigned **Virtual Machine User Login** to LabUser1.
 Created a Conditional Access policy enforcing MFA for Global Administrators.
 
 **Screenshot:**  
-`![CA MFA Admins](./screenshots/ca-mfa-admins.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 2 01 10 AM" src="https://github.com/user-attachments/assets/3dbcbc34-4536-458b-b92c-9bc8ea184bec" />
 
 ---
 
@@ -87,7 +87,7 @@ Created a Conditional Access policy enforcing MFA for Global Administrators.
 Created a policy blocking sign-ins from outside trusted IP ranges.
 
 **Screenshot:**  
-`![CA Block Non Trusted](./screenshots/ca-block-nontrusted.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 2 25 03 AM" src="https://github.com/user-attachments/assets/f51a399e-539f-4f05-8912-5e30e6a99bab" />
 
 ---
 
@@ -100,24 +100,16 @@ Configured my account as **Eligible** for Global Administrator with:
 - 1-hour activation window  
 
 **Screenshot:**  
-`![PIM Eligible Assignment](./screenshots/pim-eligible.png)`
-
----
-
-## 5.2 PIM Activation
-Activated the role to demonstrate just-in-time access.
-
-**Screenshot:**  
-`![PIM Activation](./screenshots/pim-activation.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 3 13 13 AM" src="https://github.com/user-attachments/assets/653f13ac-e1d8-4fdb-9df1-6d88b1f9e5d4" />
 
 ---
 
 # 6. Access Reviews
 
-Created an access review for Global Administrator assignments.
+Reviewed access for Global Administrator assignments.
 
 **Screenshot:**  
-`![Access Review](./screenshots/access-review.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 3 33 38 AM" src="https://github.com/user-attachments/assets/60dcc0de-6346-4238-85b0-da3eab347a16" />
 
 ---
 
@@ -127,7 +119,7 @@ Created an access review for Global Administrator assignments.
 Configured user risk policy to require password reset.
 
 **Screenshot:**  
-`![User Risk Policy](./screenshots/user-risk-policy.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 3 55 22 AM" src="https://github.com/user-attachments/assets/1653a722-61ae-4193-a48d-6757b2a16517" />
 
 ---
 
@@ -135,7 +127,7 @@ Configured user risk policy to require password reset.
 Configured sign-in risk policy to require MFA.
 
 **Screenshot:**  
-`![Sign-In Risk Policy](./screenshots/signin-risk-policy.png)`
+<img width="1458" height="1081" alt="Screenshot 2026-03-03 at 3 56 52 AM" src="https://github.com/user-attachments/assets/9e8a8aee-f904-4310-b032-d314cee1e6be" />
 
 ---
 
