@@ -206,6 +206,3 @@ These challenges strengthened my understanding of:
 
 This reflection demonstrates not only technical skill but also resilience and problem-solving — critical traits for cloud security and GRC roles.
 
----
-
-# End of Lab 3
