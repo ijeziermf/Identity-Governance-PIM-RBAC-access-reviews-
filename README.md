@@ -131,28 +131,21 @@ Configured sign-in risk policy to require MFA.
 
 ---
 
-# 8. Logging & Monitoring
+# 8. Logging
 
 ## 8.1 Audit Logs
 Captured logs for:
 - Role assignments  
 - Conditional Access creation  
 - PIM activation  
-- Access review creation  
-
-**Screenshot:**  
-`![Audit Logs](./screenshots/audit-logs.png)`
-
----
-
-## 8.2 Sign-In Logs
-Captured:
+- Access review creation
 - Successful sign-ins  
 - Blocked sign-ins  
 - Risky sign-ins  
 
-**Screenshot:**  
-`![Sign-In Logs](./screenshots/signin-logs.png)`
+https://github.com/user-attachments/assets/deefcd32-c69c-43d6-9928-ffbbd1812451
+
+
 
 ---
 
