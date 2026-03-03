@@ -1,4 +1,4 @@
-# Lab 3 — Identity Governance, Access Control, and Conditional Access
+# Azure Identity Governance, Access Control, and Conditional Access
 
 ## Overview
 This lab demonstrates how I designed and implemented identity governance controls in Microsoft Entra ID and Azure. The goal was to enforce least privilege, protect privileged roles, and validate identity-based access across multiple Azure resources.
