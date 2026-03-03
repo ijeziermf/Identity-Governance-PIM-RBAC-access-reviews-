@@ -16,8 +16,7 @@ This lab builds on my existing Azure environment and introduces:
 # 1. Environment Architecture
 
 ### Identity Governance Architecture Diagram
-> **[Insert Diagram Here]**  
-`![Identity Governance Architecture](./screenshots/identity-governance-architecture.png)`
+<img width="1536" height="1024" alt="Identity Governance Architecture" src="https://github.com/user-attachments/assets/3f01bbfb-cdba-4b9f-8af3-3be732a23f78" />
 
 ---
 
@@ -27,7 +26,8 @@ This lab builds on my existing Azure environment and introduces:
 Created a standard user with no directory roles.
 
 **Screenshot:**  
-`![User Creation](./screenshots/user-creation.png)`
+<img width="482" height="181" alt="Screenshot 2026-02-27 at 11 31 44 PM" src="https://github.com/user-attachments/assets/58513aac-dd82-46b5-b677-ddba1856e584" />
+
 
 ---
 
@@ -41,19 +41,11 @@ Created a security group to manage RBAC assignments at scale.
 
 # 3. RBAC Assignments
 
-## 3.1 Subscription-Level RBAC (Reader)
-Assigned **Reader** to the operator group at the subscription scope.
-
-**Screenshot:**  
-`![Subscription Reader Assignment](./screenshots/subscription-reader.png)`
-
----
-
-## 3.2 Resource Group-Level RBAC (Contributor)
+## 3.1 Resource Group-Level RBAC (Contributor)
 Assigned **Contributor** to the operator group at the RG scope.
 
-**Screenshot:**  
-`![RG Contributor Assignment](./screenshots/rg-contributor.png)`
+**Screenshot:** 
+<img width="1404" height="1092" alt="Screenshot 2026-02-27 at 11 34 17 PM" src="https://github.com/user-attachments/assets/afc9f9f3-01c0-48f0-ba9b-dd84a06ea128" />
 
 ---
 
@@ -61,7 +53,7 @@ Assigned **Contributor** to the operator group at the RG scope.
 Assigned **Key Vault Secrets User** to LabUser1.
 
 **Screenshot:**  
-`![Key Vault Secrets User](./screenshots/keyvault-secrets-user.png)`
+<img width="1404" height="1092" alt="Screenshot 2026-02-27 at 11 35 51 PM" src="https://github.com/user-attachments/assets/9d404126-8038-4c0b-906b-0d61c6eee7f6" />
 
 ---
 
@@ -77,7 +69,7 @@ Assigned **Storage Blob Data Reader** to the operator group.
 Assigned **Virtual Machine User Login** to LabUser1.
 
 **Screenshot:**  
-`![VM User Login](./screenshots/vm-user-login.png)`
+<img width="1404" height="1090" alt="Screenshot 2026-02-27 at 11 44 07 PM" src="https://github.com/user-attachments/assets/af0b4d2e-374b-4ea7-9cd1-9f8731aec4e6" />
 
 ---
 
